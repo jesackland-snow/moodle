@@ -2783,6 +2783,9 @@ img.iconsmall {
   margin: 1em 10% 2em 10%;
   text-align: left;
 }
+#page-admin-roles-override table#overriderolestable tbody tr.overriddenpermission {
+  background-color: #fcf8e3;
+}
 #notice {
   width: 60%;
   min-width: 220px;
